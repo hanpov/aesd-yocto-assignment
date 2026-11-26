@@ -4,7 +4,7 @@
 LICENSE = "MIT"
 LIC_FILES_CHKSUM = "file://${COMMON_LICENSE_DIR}/MIT;md5=0835ade698e0bcf8506ecda2f7b4f302"
 
-SRC_URI = "git://git@github.com/hanpov/aesd-assignments.git;protocol=ssh;branch=master"
+SRC_URI = "git://github.com/hanpov/aesd-assignments.git;protocol=https;branch=master"
 
 PV = "1.0+git${SRCPV}"
 SRCREV = "c3927252dc50f8d6bf235fe7ff7ce1f600962d4f"
